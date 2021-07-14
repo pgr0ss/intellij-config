@@ -9992,6 +9992,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.lama">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="ru.mse.lama-plugin" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.lang">
       <plugins>
         <option name="myPlugins">
@@ -19340,6 +19354,20 @@
         </option>
       </plugins>
     </entry>
+    <entry key="*.tscript">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.lukasj.idea.torquescript" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
     <entry key="*.tss">
       <plugins>
         <option name="myPlugins">
@@ -23800,6 +23828,20 @@
               <option name="myPluginId" value="com.intellij.spring" />
               <option name="myPluginName" value="Spring Support" />
               <option name="myBundled" value="true" />
+              <option name="myFromCustomRepository" value="false" />
+            </plugin>
+          </set>
+        </option>
+      </plugins>
+    </entry>
+    <entry key="steepfile">
+      <plugins>
+        <option name="myPlugins">
+          <set>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.ruby" />
+              <option name="myPluginName" />
+              <option name="myBundled" value="false" />
               <option name="myFromCustomRepository" value="false" />
             </plugin>
           </set>
