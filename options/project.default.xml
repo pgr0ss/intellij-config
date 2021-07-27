@@ -16,16 +16,6 @@
       <component name="PropertiesComponent">
         <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
       </component>
-      <component name="SaveActionSettings">
-        <option name="actions">
-          <set>
-            <option value="activate" />
-            <option value="organizeImports" />
-            <option value="reformat" />
-          </set>
-        </option>
-        <option name="configurationPath" value="" />
-      </component>
     </defaultProject>
   </component>
 </application>
