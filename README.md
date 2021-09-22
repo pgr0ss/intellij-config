@@ -7,7 +7,6 @@ Config files for [IntelliJ IDEA](https://www.jetbrains.com/idea/) version 2021.1
 Notable changes compared to the default settings on a fresh installation:
 
 - Uses MacOS keymap, even on Linux (which makes it more familiar inside VNC)
-- Adds Google code style as default style
 - Adds Vim plugin
 - Adds SaveActions and configures it to Optimize Imports and Format on save
 - Turns on annotation processing (e.g. for Immutables, Lombok)
