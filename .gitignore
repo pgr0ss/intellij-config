@@ -1,7 +1,10 @@
 /extensions
+/idea.key
 /idea.vmoptions
 /options
 /port
 /port.lock
 /tasks
 /workspace
+
+*.license
