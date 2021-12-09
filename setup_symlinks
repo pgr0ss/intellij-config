@@ -3,16 +3,17 @@
 require "fileutils"
 
 THIS_DIR = File.expand_path("..", __FILE__)
+VERSION = "2021.3"
 
 if `uname -s`.strip == "Darwin"
   CONFIGS = {
-    "~/Library/Application\ Support/JetBrains/IdeaIC2021.2" => THIS_DIR,
-    "~/Library/Application\ Support/JetBrains/IntelliJIdea2021.2" => THIS_DIR,
+    "~/Library/Application\ Support/JetBrains/IdeaIC#{VERSION}" => THIS_DIR,
+    "~/Library/Application\ Support/JetBrains/IntelliJIdea#{VERSION}" => THIS_DIR,
   }
 else
   CONFIGS = {
-  "~/.config/JetBrains/IdeaIC2021.2" => THIS_DIR,
-  "~/.local/share/JetBrains/IdeaIC2021.2" => "#{THIS_DIR}/plugins",
+  "~/.config/JetBrains/IdeaIC#{VERSION}" => THIS_DIR,
+  "~/.local/share/JetBrains/IdeaIC#{VERSION}" => "#{THIS_DIR}/plugins",
   }
 end
 

@@ -1,6 +1,6 @@
 # intellij-config
 
-Config files for [IntelliJ IDEA](https://www.jetbrains.com/idea/) version 2021.1.
+Config files for [IntelliJ IDEA](https://www.jetbrains.com/idea/) version 2021.3.
 
 ## Notable Changes
 
