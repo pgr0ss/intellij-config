@@ -84,6 +84,8 @@ def _symbol_loaded_address(name, debugger = lldb.debugger):
         log(lambda: "_symbol_loaded_address:{} {:#x}".format(name, address))
         return address
 
+    return 0
+
 def _type_info_by_address(address, debugger = lldb.debugger):
     target = debugger.GetSelectedTarget()
     process = target.GetProcess()
