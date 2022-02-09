@@ -25,3 +25,15 @@ Close IntelliJ IDEA and symlink the files to the proper places with:
 ```
 
 You may also need to configure the project JDK since the path may be different. `File -> Project Structure` and set `Project SDK`.
+
+## Project Level Settings
+
+IntelliJ also has many project level settings that cannot be set globally. These need to be configured each time per project, and will reset if the `.idea` directory is deleted:
+- Preferences -> Tools -> Actions on Save
+  - Reformat Code
+  - Optimize Imports
+- Preferences -> Build, Execution, Deployment -> Build Tools
+  - Reload project after changes in the build scripts: Any changes
+- Preferences -> Version Control -> Commit
+  - Clear initial commit message
+  - Limit body line
