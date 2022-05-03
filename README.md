@@ -1,6 +1,6 @@
 # intellij-config
 
-Config files for [IntelliJ IDEA](https://www.jetbrains.com/idea/) version 2021.3.
+Config files for [IntelliJ IDEA](https://www.jetbrains.com/idea/) version 2022.1.
 
 ## Notable Changes
 
@@ -8,7 +8,6 @@ Notable changes compared to the default settings on a fresh installation:
 
 - Uses MacOS keymap, even on Linux (which makes it more familiar inside VNC)
 - Adds Vim plugin
-- Adds SaveActions and configures it to Optimize Imports and Format on save
 - Turns on annotation processing (e.g. for Immutables, Lombok)
 
 And a handful of other smaller changes, such as:

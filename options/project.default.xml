@@ -6,16 +6,14 @@
           <profile default="true" name="Default" enabled="true" />
         </annotationProcessing>
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-          </MavenGeneralSettings>
-        </option>
-      </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-      </component>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "project.structure.last.edited": "SDK Location",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
     </defaultProject>
   </component>
 </application>
