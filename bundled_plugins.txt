@@ -30,20 +30,11 @@ com.intellij.plugins.eclipsekeymap|Keymap
 com.intellij.platform.images|null
 com.jetbrains.restClient|Other Tools
 com.intellij.laf.macos|Themes
-com.intellij.externalSystem.dependencyUpdater|null
 com.intellij.microservices.ui|Microservices
 com.intellij.diagram|Other Tools
 com.intellij.copyright|Other Tools
 com.intellij.properties|Languages
 com.intellij.gradle|Build Tools
-com.intellij.css|Style Sheets
-org.jetbrains.plugins.stylus|Style Sheets
-org.jetbrains.plugins.sass|Style Sheets
-org.jetbrains.plugins.less|Style Sheets
-com.intellij.configurationScript|null
-com.intellij.completion.ml.ranking|Other Tools
-com.intellij.analysis.pwa|null
-com.intellij.CloudConfig|IDE Settings
 com.intellij.java|null
 org.jetbrains.kotlin|null
 com.jetbrains.performancePlugin.kotlin|null
@@ -69,11 +60,19 @@ com.intellij.javaee.webSocket|JVM Frameworks
 com.intellij.javaee.el|JVM Frameworks
 com.intellij.spring.security|JVM Frameworks
 com.intellij.javaee|JVM Frameworks
+com.intellij.dsm|Other Tools
+com.intellij.css|Style Sheets
+org.jetbrains.plugins.stylus|Style Sheets
+org.jetbrains.plugins.sass|Style Sheets
+org.jetbrains.plugins.less|Style Sheets
+com.intellij.configurationScript|null
+com.intellij.completion.ml.ranking|Other Tools
 com.intellij.quarkus|JVM Frameworks
 com.intellij.cdi|JVM Frameworks
-com.intellij.dsm|Other Tools
 com.intellij.aop|JVM Frameworks
+com.intellij.analysis.pwa|null
 com.intellij.analysis.pwa.java|null
+com.intellij.CloudConfig|IDE Settings
 com.jetbrains.performancePlugin|Other Tools
 intellij.indexing.shared.core|null
 com.intellij.spring.boot.initializr|JVM Frameworks
