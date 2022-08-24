@@ -6,7 +6,6 @@ Config files for [IntelliJ IDEA](https://www.jetbrains.com/idea/) version 2022.1
 
 Notable changes compared to the default settings on a fresh installation:
 
-- Uses MacOS keymap, even on Linux (which makes it more familiar inside VNC)
 - Adds Vim plugin
 - Turns on annotation processing (e.g. for Immutables, Lombok)
 

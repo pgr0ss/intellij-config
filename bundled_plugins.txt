@@ -3,7 +3,6 @@ training|null
 tanvd.grazi|null
 org.toml.lang|null
 org.jetbrains.settingsRepository|IDE Settings
-org.jetbrains.plugins.yaml|Languages
 org.jetbrains.plugins.wsl.fs|null
 org.jetbrains.plugins.textmate|Other Tools
 org.jetbrains.plugins.terminal|Other Tools
@@ -18,7 +17,6 @@ idea.plugin.protoeditor|Microservices
 hg4idea|Version Controls
 com.jetbrains.space|null
 com.jetbrains.sh|Languages
-com.jetbrains.settingsSync|IDE Settings
 com.jetbrains.projector.libs|null
 org.jetbrains.plugins.remote-run|null
 com.jetbrains.plugins.webDeployment|Deployment
@@ -32,16 +30,18 @@ com.jetbrains.restClient|Other Tools
 com.intellij.laf.macos|Themes
 com.intellij.microservices.ui|Microservices
 com.intellij.diagram|Other Tools
+com.intellij.dev|null
 com.intellij.copyright|Other Tools
 com.intellij.properties|Languages
 com.intellij.gradle|Build Tools
 com.intellij.java|null
-org.jetbrains.kotlin|null
+org.jetbrains.kotlin|Languages
 com.jetbrains.performancePlugin.kotlin|null
 org.jetbrains.java.decompiler|Other Tools
 org.jetbrains.idea.eclipse|Other Tools
 org.jetbrains.debugger.streams|Other Tools
 com.jetbrains.packagesearch.intellij-plugin|null
+com.jetbrains.codeWithMe|null
 com.intellij.tracing.ide|null
 com.intellij.microservices.jvm|JVM Frameworks
 com.intellij.micronaut|JVM Frameworks
@@ -59,15 +59,17 @@ com.intellij.spring.cloud|JVM Frameworks
 com.intellij.javaee.webSocket|JVM Frameworks
 com.intellij.javaee.el|JVM Frameworks
 com.intellij.spring.security|JVM Frameworks
+com.intellij.spring.data|JVM Frameworks
 com.intellij.javaee|JVM Frameworks
+com.intellij.freemarker|Template Languages
 com.intellij.dsm|Other Tools
 com.intellij.css|Style Sheets
 org.jetbrains.plugins.stylus|Style Sheets
 org.jetbrains.plugins.sass|Style Sheets
 org.jetbrains.plugins.less|Style Sheets
+com.intellij.jsp|Template Languages
 com.intellij.configurationScript|null
 com.intellij.completion.ml.ranking|Other Tools
-com.intellij.quarkus|JVM Frameworks
 com.intellij.cdi|JVM Frameworks
 com.intellij.aop|JVM Frameworks
 com.intellij.analysis.pwa|null
@@ -105,9 +107,13 @@ org.jetbrains.plugins.github|Version Controls
 Git4Idea|Version Controls
 training.git|null
 intellij.indexing.shared|null
-com.jetbrains.changeReminder|Version Controls
+com.jetbrains.settingsSync|IDE Settings
 com.intellij.searcheverywhere.ml|null
+org.jetbrains.plugins.yaml|Languages
+com.intellij.quarkus|JVM Frameworks
+com.intellij.searcheverywhere.ml.microservices|null
 Docker|Deployment
+DevKit|Plugin Development
 Coverage|Code Coverage
 ByteCodeViewer|Other Tools
 org.intellij.groovy|Languages
@@ -119,38 +125,31 @@ org.jetbrains.idea.gradle.ext|Build Tools
 com.jetbrains.performancePlugin.gradle|null
 com.intellij.reactivestreams|JVM Frameworks
 com.intellij.javaee.gradle|JVM Frameworks
-org.jetbrains.idea.maven.ext|Build Tools
-com.jetbrains.performancePlugin.maven|null
-cucumber-groovy|Test Tools
-DevKit|Plugin Development
-com.intellij.swagger|Microservices
-com.intellij.spring.mvc|JVM Frameworks
 com.intellij.thymeleaf|Template Languages
 JavaScriptDebugger|JavaScript Frameworks and Tools
 JavaScript|JavaScript Frameworks and Tools
 tslint|JavaScript Frameworks and Tools
-spy-js|JavaScript Frameworks and Tools
 com.intellij.persistence|JVM Frameworks
-com.intellij.spring.data|JVM Frameworks
 com.intellij.javaee.jpa|JVM Frameworks
-com.intellij.jakarta.nosql|JVM Frameworks
 com.intellij.javaee.app.servers.integration|JVM Frameworks
-com.jetbrains.performancePlugin.workspaceModel|null
-com.intellij.jsp|Template Languages
 com.intellij.javaee.extensions|JVM Frameworks
-com.intellij.freemarker|Template Languages
 Tomcat|Deployment
 JBoss|Deployment
 GlassFish|Deployment
 com.intellij.database|Database
-com.intellij.hibernate|JVM Frameworks
 NodeJS|JavaScript Frameworks and Tools
+JSIntentionPowerPack|JavaScript Frameworks and Tools
+intellij.ktor|Kotlin Frameworks
+org.jetbrains.idea.maven.ext|Build Tools
+com.jetbrains.performancePlugin.maven|null
+com.jetbrains.performancePlugin.workspaceModel|null
+com.intellij.swagger|Microservices
+com.intellij.hibernate|JVM Frameworks
 org.jetbrains.idea.gradle.dsl|null
 org.jetbrains.plugins.gradle.dependency.updater|null
 org.jetbrains.security.package-checker|null
 org.jetbrains.android|Android
-com.jetbrains.codeWithMe|null
-intellij.ktor|Kotlin Frameworks
-com.jetbrains.idea.refactoring.detector|VCS Integration
-JSIntentionPowerPack|JavaScript Frameworks and Tools
+com.android.tools.design|null
+cucumber-groovy|Test Tools
+com.intellij.spring.mvc|JVM Frameworks
 AngularJS|JavaScript Frameworks and Tools
