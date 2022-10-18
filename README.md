@@ -7,6 +7,7 @@ Config files for [IntelliJ IDEA](https://www.jetbrains.com/idea/) version 2022.1
 Notable changes compared to the default settings on a fresh installation:
 
 - Adds Vim plugin
+- Adds [GitLink](https://plugins.jetbrains.com/plugin/8183-gitlink) plugin for easily opening files in GitHub/GitLab
 - Turns on annotation processing (e.g. for Immutables, Lombok)
 
 And a handful of other smaller changes, such as:
