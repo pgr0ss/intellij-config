@@ -35,7 +35,6 @@ com.intellij.copyright|Other Tools
 com.intellij.properties|Languages
 com.intellij.gradle|Build Tools
 com.intellij.java|null
-org.jetbrains.kotlin|Languages
 com.jetbrains.performancePlugin.kotlin|null
 org.jetbrains.java.decompiler|Other Tools
 org.jetbrains.idea.eclipse|Other Tools
