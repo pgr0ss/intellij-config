@@ -36,3 +36,7 @@ IntelliJ also has many project level settings that cannot be set globally. These
 - Preferences -> Version Control -> Commit
   - Clear initial commit message
   - Limit body line
+
+## Memory Settings
+
+You may also want to increase the max heap for IntelliJ. Edit or create a file in this directory called `idea.vmoptions` with contents like `-Xmx4096m`.
