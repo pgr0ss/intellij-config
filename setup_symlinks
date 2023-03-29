@@ -3,7 +3,7 @@
 require "fileutils"
 
 THIS_DIR = File.expand_path("..", __FILE__)
-VERSION = "2022.3"
+VERSION = "2023.1"
 
 if `uname -s`.strip == "Darwin"
   CONFIGS = {

@@ -46,8 +46,6 @@ Tomcat|Deployment
 
 XPathView|HTML and XML
 
-XSLT-Debugger|HTML and XML
-
 com.android.tools.design|Android
 
 com.android.tools.idea.smali|Android
@@ -73,6 +71,8 @@ com.intellij.configurationScript|null
 com.intellij.copyright|Other Tools
 
 com.intellij.css|Style Sheets
+
+com.intellij.cvp|Other Tools
 
 com.intellij.database|Database
 
@@ -111,8 +111,6 @@ com.intellij.javaee|JVM Frameworks
 com.intellij.java|null
 
 com.intellij.jsp|Template Languages
-
-com.intellij.laf.macos|Themes
 
 com.intellij.micronaut|JVM Frameworks
 
@@ -188,17 +186,17 @@ com.jetbrains.gateway|Remote Development
 
 com.jetbrains.packagesearch.intellij-plugin|null
 
-com.jetbrains.performancePlugin.dynamicPlugins|null
+com.jetbrains.performancePlugin.async|Other Tools
 
-com.jetbrains.performancePlugin.gradle|null
+com.jetbrains.performancePlugin.dynamicPlugins|null
 
 com.jetbrains.performancePlugin.java|null
 
 com.jetbrains.performancePlugin.kotlin|null
 
-com.jetbrains.performancePlugin.maven|null
-
 com.jetbrains.performancePlugin.workspaceModel|null
+
+com.jetbrains.performancePlugin.yourkit|Other Tools
 
 com.jetbrains.performancePlugin|Other Tools
 
@@ -223,6 +221,8 @@ gherkin|Languages
 hg4idea|Version Controls
 
 idea.plugin.protoeditor|Microservices
+
+intellij.caches.shared|null
 
 intellij.grid.core.impl|null
 
@@ -254,6 +254,8 @@ org.intellij.intelliLang|Other Tools
 
 org.intellij.plugins.markdown|Languages
 
+org.intellij.plugins.postcss|Style Sheets
+
 org.intellij.qodana|null
 
 org.jetbrains.android|Android
@@ -282,6 +284,8 @@ org.jetbrains.kotlin|Languages
 
 org.jetbrains.plugins.github|Version Controls
 
+org.jetbrains.plugins.gradle.analysis|null
+
 org.jetbrains.plugins.gradle.dependency.updater|null
 
 org.jetbrains.plugins.gradle.maven|Build Tools
@@ -308,7 +312,7 @@ org.jetbrains.plugins.yaml|Languages
 
 org.jetbrains.security.package-checker|null
 
-org.toml.lang|null
+org.toml.lang|Languages
 
 tanvd.grazi|null
 
